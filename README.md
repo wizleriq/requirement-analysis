@@ -35,3 +35,22 @@ Detecting errors or misunderstandings in the early stages of development is far 
 
 A well-analyzed and documented set of requirements serves as a reliable foundation for designing, coding, and testing the software. It ensures that the final product aligns with user needs and performs as expected, leading to higher customer satisfaction and fewer post-deployment issues.
 
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that ensure the development team understands what needs to be built. The five key activities are:
+
+- **Requirement Gathering**  
+  This is the initial step where relevant information is collected from stakeholders, users, customers, and subject matter experts. The goal is to understand the needs, expectations, and constraints of the system.
+
+- **Requirement Elicitation**  
+  In this phase, various techniques such as interviews, questionnaires, brainstorming, and workshops are used to draw out the actual requirements from stakeholders. It focuses on discovering hidden, unstated, or conflicting requirements.
+
+- **Requirement Documentation**  
+  Once the requirements are gathered and elicited, they are documented in a clear and structured format. This documentation serves as a reference throughout the project and can take the form of Software Requirement Specifications (SRS), user stories, or use cases.
+
+- **Requirement Analysis and Modeling**  
+  This step involves analyzing the documented requirements to identify inconsistencies, ambiguities, or redundancies. Modeling tools like data flow diagrams (DFDs), entity-relationship diagrams (ERDs), and use case diagrams may be used to visualize and clarify the system's structure and behavior.
+
+- **Requirement Validation**  
+  The final activity ensures that the documented requirements accurately reflect the needs of the stakeholders. It involves reviewing, verifying, and validating the requirements through techniques like walkthroughs, inspections, and prototyping.
+
