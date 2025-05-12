@@ -90,5 +90,11 @@ Use Case Diagrams are a type of Unified Modeling Language (UML) diagram used in 
 - **Scope Definition:** Helps define the functional scope of the system.
 - **Requirement Validation:** Aids in validating that all required functions have been captured.
 
+- ### Use Case Diagram for the Booking System
+
+Below is a use case diagram illustrating the primary actors and use cases in the booking management system.
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
+
 
 
