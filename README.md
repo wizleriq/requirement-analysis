@@ -79,4 +79,16 @@ Non-functional requirements specify the quality attributes, performance benchmar
 - The system shall support up to 10,000 concurrent users.
 - All user data shall be encrypted both at rest and in transit.
 - The interface shall be accessible on both desktop and mobile devices.
+  
+- ## Use Case Diagrams
+
+Use Case Diagrams are a type of Unified Modeling Language (UML) diagram used in requirement analysis to visually represent the interactions between users (actors) and the system. They help to identify the various ways users can interact with the system and define the functional boundaries of the system.
+
+### Benefits of Use Case Diagrams:
+- **Clarity:** Provides a clear visual overview of how the system will be used.
+- **Stakeholder Communication:** Facilitates better discussions between developers, clients, and stakeholders.
+- **Scope Definition:** Helps define the functional scope of the system.
+- **Requirement Validation:** Aids in validating that all required functions have been captured.
+
+
 
